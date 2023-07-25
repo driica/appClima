@@ -11,6 +11,15 @@ Feito em React Native.
 <a href="https://www.linkedin.com/in/adrianabeatriz3">
  <sub><b>Adriana Beatriz</b></sub></a>  <a href="https://www.linkedin.com/in/adrianabeatriz3" title="LinkedIn">🚀</a>
 
+ ### Estrutura de arquivos:
+
+ appClima/ <br>
+├─ assets/ <br>
+│  └─ images/   (ícones e imagens usadas no app) <br>
+├─ src/ <br>
+│  ├─ assets <br>
+│  └─ screens/home
+
 <br> Entre em contato!👋🏽 </br>
 
  <div> 
