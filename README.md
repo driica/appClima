@@ -8,9 +8,6 @@ Feito em React Native.
 
 <img src="fotoClima.png" height="570" width="300">
 
-<a href="https://www.linkedin.com/in/adrianabeatriz3">
- <sub><b>Adriana Beatriz</b></sub></a>  <a href="https://www.linkedin.com/in/adrianabeatriz3" title="LinkedIn">🚀</a>
-
  ### Estrutura de arquivos:
 
  appClima/ <br>
